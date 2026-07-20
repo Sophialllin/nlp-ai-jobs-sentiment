@@ -1,6 +1,5 @@
 # The AI Jobs Debate: Perception vs Reality
 **NLP Pipeline Analyzing Public Sentiment vs Labor Market Demand**  
-*Columbia University APAN 5205 — Applied Machine Learning II*
 
 ---
 
